@@ -1,2 +1,3 @@
 # my-first-webpage
-Built with basic html and css
+Built with basic HTML and CSS
+

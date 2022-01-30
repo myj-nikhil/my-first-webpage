@@ -1,0 +1,87 @@
+body {
+  margin: 0px;
+  background-color:#f29f99;
+}
+
+
+
+#title {
+  background-color: #e0ffdb;
+  color: #657bd6;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+/*   margin: 0px 0px 50px; */
+  margin :30px 0px;
+  padding: 2px 20px;
+  font-size: 75px;
+  
+/*   border : solid black 5px; */
+}
+
+/* h1 {
+  padding: 0px 0px;
+  text-align: center;
+} */
+
+#title-description {
+  font-family: 'Aguafina Script', cursive;
+  font-size: 35px;
+  color: #dc85ed;
+  
+}
+
+header {
+  margin : 0px 0px;
+}
+
+#img-div {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: #c8b5eb;
+  font-family: 'Aldrich', sans-serif;
+  width:100%;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin:auto;
+  display: block;
+}
+
+#img-caption {
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  
+}
+
+#tribute-info {
+  background-color: #e7e3ff;
+  font-family: 'Aldrich', sans-serif;
+  padding: 40px;
+  margin:20px;
+  
+}
+
+.ele {
+  margin: 30px;
+}
+
+footer {
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left:30px;
+  text-align: center;
+  background-color: #edfeff;
+  font-family: 'Aldrich', sans-serif;
+  font-size: 22px;
+}
+
+
+
+
